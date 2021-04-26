@@ -1,5 +1,5 @@
 /******************* Constant Declarations *********************************/
-#define L 40                    /* lattice linear size*/
+#define L 30                    /* lattice linear size*/
 #define N (L*L)                 /* total number of spins */
 
 #define transient 10000         /* transient time */
